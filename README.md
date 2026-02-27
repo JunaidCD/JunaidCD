@@ -12,8 +12,8 @@
 
 <!-- BADGES ROW -->
 [![Profile Views](https://komarev.com/ghpvc/?username=junaidcd&label=Profile%20Views&color=7c3aed&style=for-the-badge&logo=eye)](https://github.com/JunaidCD)
-[![GitHub followers](https://img.shields.io/github/followers/JunaidCD?label=Followers&style=for-the-badge&color=7c3aed&logo=github)](https://github.com/JunaidCD?tab=followers)
-[![Twitter Follow](https://img.shields.io/twitter/follow/JunaidMollah5?style=for-the-badge&logo=x&color=000000&logoColor=white&label=Follow)](https://x.com/JunaidMollah5)
+[![GitHub followers](https://img.shields.io/badge/Followers-2-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JunaidCD?tab=followers)
+[![Twitter Follow](https://img.shields.io/badge/Follow-X-7c3aed?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JunaidMollah5)
 
 </div>
 
@@ -156,27 +156,14 @@ contract JunaidMollah {
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JunaidCD&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&border_radius=10" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunaidCD&layout=compact&langs_count=8&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=10" />
-
+  <img width="60%" src="https://streak-stats.demolab.com?user=JunaidCD&theme=tokyonight&background=0D1117&border=7C3AED&stroke=7C3AED&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=C9D1D9&dates=8B949E&border_radius=10" />
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=JunaidCD&theme=tokyonight&background=0D1117&border=7C3AED&stroke=7C3AED&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=C9D1D9&dates=8B949E&border_radius=10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JunaidCD&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&border_color=7c3aed&hide_border=false&radius=10&custom_title=Junaid%27s%20Contribution%20Graph" width="98%"/>
 </div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JunaidCD&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&border_color=7c3aed&hide_border=false&radius=10&custom_title=Junaid%27s%20Contribution%20Graph" width="98%"/>
-</div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=JunaidCD&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&column=6&row=1" width="98%" />
-</div>
 
 ---
 
