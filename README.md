@@ -177,7 +177,7 @@ contract JunaidMollah {
 </picture>
 </div>
 
-> ⚠️ **To enable the contribution snake**, create this file in your repo: `.github/workflows/snake.yml` — see instructions below this README.
+
 
 ---
 
